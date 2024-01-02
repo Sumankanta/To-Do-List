@@ -1,0 +1,2 @@
+The images.txt file in this project contains details about the images used on the website.
+This file provides information such as the file name, source, and purpose of each image.
